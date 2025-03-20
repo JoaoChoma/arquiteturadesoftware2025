@@ -24,3 +24,8 @@ Este formulário será utilizado para a submissão de atividades práticas que i
     + __Envio da Atividade:__ Envie o link de acesso ao repositório do projeto (GitHub ou plataformas semelhantes), contendo o diretório com os artefatos gerados durante a execução da atividade.
 
     + __Informações Necessárias:__ Preencha os campos com o nome e o RA de cada integrante do grupo, organizados em ordem alfabética, e informe a turma na qual o grupo está matriculado.
+
+---
+Gerador de diagramas
+
+https://mermaid.js.org/
